@@ -7,7 +7,8 @@ Some example
 * *italic*
 * **bold**
 * A [search engine](http://google.com "Google")
-* A cross [reference][search engine]
+* A cross [reference][myengine]
+* [myengine]: http://google.es "Google-es"
   * Indented enumerations
 * Or just numbered ones:
 1. Item to check
